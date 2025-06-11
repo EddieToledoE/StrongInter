@@ -12,7 +12,12 @@
           "package_name": "com.stronginter.app"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "1075477556226-jcfutgd6sr2pgaplhan0j1g5ph5hjhfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyDE8P_c7RxIOEH9GJIBLTh1TSgqMWVR2YM"
@@ -20,7 +25,19 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075477556226-jcfutgd6sr2pgaplhan0j1g5ph5hjhfb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075477556226-69sr126c28qcq8a7khens21986i5fb98.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.stronginter"
+              }
+            }
+          ]
         }
       }
     }
